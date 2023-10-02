@@ -1,0 +1,263 @@
+.plugproductsBW{
+     margin-top: 20px;
+}
+.emptycartdisplay{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.plugcontainer{
+    max-width: 760px;
+    justify-content: space-around;
+    margin: 0 auto;
+    float: initial;
+}
+.plugheader{
+    width: 100%;
+    max-width: 750px;
+    display: flex;
+    justify-content: flex-start;
+    border-bottom: 2px solid black;
+    margin: 0 auto;
+}
+.plugfooter{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    border-bottom: 2px solid black;
+    margin-top: 20 px;
+    margin-bottom: 20 px;
+}
+.plugtitleproduct{
+    width: 40%;
+    padding-left: 10%;
+}
+.plugtitlequantity{
+    width: 30%;
+    display: flex;
+    align-items: center;
+}
+.plugtitletotal{
+    width: 0%;
+    display: flex;
+    align-items: center;
+}
+.DPcontainer{
+    list-style: none;
+    width: 100%;
+    height: 90px;
+    white-space: nowrap;
+    
+    overflow-y: hidden;
+}
+.DPcontainer > li {
+    display: inline-block;
+
+}
+.DPcontainer1{
+    width: 100px;
+    padding-left:10px;
+}
+.DPcontainer2{
+    padding-left: 5px;
+}
+.quantity{
+    padding-left:10px;
+}
+.DPcontainerCC{
+    position: relative;
+    list-style: none;
+    width: 100%;
+    height: 90px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    padding: 0;
+    white-space: nowrap;
+    
+    overflow-y: hidden;
+}
+.DPcontainerCC > li {
+    display: inline-block;
+
+}
+.DPcontainer2CC{
+    padding-left: 5px;
+}
+.quantitygramsCC{
+    padding-left:10px;
+}
+.DPcontainerOC{
+    list-style: none;
+    width: 100%;
+    height: 90px;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    
+    overflow-y: hidden;
+}
+.DPcontainerOC > li {
+    display: inline-block;
+
+}
+.DPcontainer2OC{
+    padding-left: 5px;
+}
+.quantitygramsOC{
+    padding-left:10px;
+}
+.DPcontainerBW{
+    list-style: none;
+    width: 100%;
+    height: 90px;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    overflow-y: hidden;
+}
+.DPcontainerBW > li {
+    display: inline-block;
+}
+.DPcontainer2BW{
+    padding-left: 5px;
+}
+.quantitygramsBW{
+    padding-left:10px;
+}
+.DPcontainerPR{
+    list-style: none;
+    width: 100%;
+    height: 90px;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    
+    overflow-y: hidden;
+}
+.DPcontainerPR > li {
+    display: inline-block;
+
+}
+.DPcontainer2PR{
+    padding-left: 5px;
+}
+.quantitygramsPR{
+    padding-left:10px;
+}
+.DPcontainerNL{
+    list-style: none;
+    width: 100%;
+    height: 90px;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    
+    overflow-y: hidden;
+}
+.DPcontainerNL > li {
+    display: inline-block;
+
+}
+.DPcontainer2NL{
+    padding-left: 5px;
+}
+.quantitygramsNL{
+    padding-left:10px;
+}
+.DPcontainerCCES{
+    list-style: none;
+    width: 100%;
+    height: 90px;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    
+    overflow-y: hidden;
+}
+.DPcontainerCCES > li {
+    display: inline-block;
+
+}
+.DPcontainer2CCES{
+    padding-left: 5px;
+}
+.quantitygramsCCES{
+    padding-left:10px;
+}
+.DPcontainerPE{
+    list-style: none;
+    width: 100%;
+    height: 90px;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    
+    overflow-y: hidden;
+}
+.DPcontainerPE > li {
+    display: inline-block;
+
+}
+.DPcontainer2PE{
+    padding-left: 5px;
+}
+.quantitygramsPE{
+    padding-left:10px;
+}
+.closebtn{
+    display:inline-block;
+}
+.gramsamount{
+    display:inline-block;
+}
+.plugfooterEnd{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    border-bottom: 2px solid black;
+    margin-top: 20 px;
+    margin-bottom: 20 px;
+}
+.cartpayment{
+    float: right;
+}
+.totalDelivery{
+    float: right;
+}
+.totalOrderR{
+    float: right;
+    display: inline-block;
+}
+.totalOrderR1{
+    float: right;
+    display: inline-block;
+}
+.totalCart{
+    float: left;
+    padding-left: 0px;
+    white-space: normal;
+    word-wrap: break-word;
+}
+.totalOrder{
+    float: right;
+    display: inline-block;
+}
+.totalOrder1{
+    float: right;
+    padding-right: 0px;
+    display: inline-block;
+}
+.totalOrder2{
+    float: right;
+    padding-right: 0px;
+    display: inline-block;
+}
+.itemsRow{
+    white-space: nowrap;
+}
+.totalsRow{
+    white-space: nowrap;
+}
+.DPelement{
+     padding-left: 10px;
+}
+
