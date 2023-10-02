@@ -1,0 +1,10 @@
+.loader{
+  position: fixed !important;
+  background: white !important;
+  height: 100% !important;
+  width: 100% !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  z-index: 3 !important;
+}
